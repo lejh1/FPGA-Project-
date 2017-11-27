@@ -1,1 +1,2 @@
 # FPGA-Project-
+This project is a fully functioning simple processor created for a class project. It  supports two types of instructions including R-type (RI=’0’) and I-type instructions (RI=’1’). R-type is a register-based instruction and I-type is an immediate-based instruction. In R-type instructions the instruction is composed of three operands, two source registers, and one destination register. In immediate-based type, one of the sources is a 15 bit immediate value.
